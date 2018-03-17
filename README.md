@@ -1,0 +1,2 @@
+# DjangoEdu
+Django Tutorial
